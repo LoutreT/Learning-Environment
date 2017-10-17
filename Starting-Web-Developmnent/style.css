@@ -1,0 +1,135 @@
+body{
+  background-color: #C0C0C0;
+}
+
+.wrapper{
+  height: auto;
+  margin: auto;
+  width: 500px;
+}
+
+
+.timbernerslee{
+  display: block;
+  width:100%;
+  margin-bottom: 10px;
+  padding:20px;
+  background-color: white;
+}
+
+/*en-dessous c'est pour voir la photo de tim berner lee en médaillon*/
+.circleimage{
+  display: block;
+  margin: auto;
+  width:200px;
+  height:200px;
+  margin-top:20px;
+  margin-bottom:20px;
+  border-radius:50%;
+  border:2px solid grey;
+}
+
+h1{
+  font-family:Montserrat;
+  font-weight: bold;
+  font-size: 24px;
+  font-style: normal;
+  text-align: center;
+  color:#DC143C;
+}
+
+h2{
+  font-family:Montserrat;
+  font-weight:normal;
+  font-size: 20px;
+  font-style:normal;
+  text-align: center;
+  color:grey;
+}
+
+p{
+  font-family:Montserrat;
+  font-weight:lighter;
+  font-size: 14px;
+  font-style: normal;
+  text-align: center;
+  text-align-last: left;
+  color:grey;
+}
+
+p span {
+  font-family:Montserrat;
+  font-weight:bold;
+  font-size: 14px;
+  font-style: normal;
+  text-align: center;
+  text-align-last:left;
+  color:grey;
+}
+
+a{
+  font-family:Montserrat;
+  font-weight:lighter;
+  font-size: 14px;
+  font-style: normal;
+  text-align: center;
+  color:grey;
+}
+
+button{
+  display: block;
+  margin: auto;
+  width:150px;
+  height:50px;
+  margin-bottom: 20px;
+  border-radius:5px;
+  color:white;
+  background-color: #DC143C;
+}
+
+.icones{
+  display: inline-block;
+  width:100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-right: 40px;
+  background-color: #fff;
+}
+
+.icone{
+  text-align: center;
+  display: inline-block;
+  width:50px;
+  margin: 50px 50px 50px;
+  color:grey;
+}
+
+article{
+  display: block;
+  width:100%;
+  margin-top: 10px;
+  padding:20px;
+  background-color: #fff;
+}
+
+.img{
+  width:150px;
+  margin:20px;
+  padding:5px 5px 5px 5px;
+  float:left;
+}
+
+.text{
+  width:200px;
+  padding: 10px;
+  text-align:center;
+  background-color: white;
+}
+
+h3{
+  font-family:Montserrat;
+  font-weight:bold;
+  font-size: 16px;
+  font-style: normal;
+  color:grey;
+}
